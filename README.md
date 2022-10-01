@@ -40,6 +40,6 @@ I'm a self-taught Full-Stack developer from Canada 🇨🇦
 <a href="https://twitter.com/lemonfluxx">
   <img align="right" alt="Owen Gregson | Twitter" width="21px" src="https://raw.githubusercontent.com/owengregson/owengregson/master/assets/twitter.svg" />
 </a>
-<a href="https://codesandbox.io/u/owengregson">
+<a href="https://codesandbox.io/u/lemonflux">
   <img align="right" alt="Owen Gregson | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/owengregson/owengregson/master/assets/codesandbox.svg" />
 </a>
