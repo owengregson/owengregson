@@ -2,7 +2,7 @@
 
 <br />
 
-I'm a self-taught Full-Stack developer from Canada 🇨🇦
+I'm a self-taught Full-Stack developer from California 🌎
 
 **About me**
 
