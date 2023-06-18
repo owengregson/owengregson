@@ -6,7 +6,7 @@ I'm a self-taught Full-Stack developer from Canada 🇨🇦
 
 **About me**
 
-- 💼 9th Grade Student in California
+- 💼 10th Grade Student in California
 
 - 📈 Built my portfolio website, minecraft servers, discord selfbots, and much more
 
