@@ -2,7 +2,7 @@
 
 <br />
 
-<img src="./assets/typed-text.svg" alt="Full Stack Developer, Creative Designer, Passionate Learner" />
+<p align="center"><img src="./assets/typed-text.svg" alt="Full Stack Developer, Creative Designer, Passionate Learner" /></p>
 
 **About me**
 
