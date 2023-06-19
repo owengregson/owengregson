@@ -5,7 +5,7 @@
 <p align="center" style="text-align: center">
 <a href="https://github.com/owengregson"><img height="30" alt="github" src="./assets/github.svg"></a>
 <a href="https://www.instagram.com/owenjee_/"><img height="30" alt="instagram" src="./assets/instagram.svg"></a>
-<a href="https://www.linkedin.com/in/owengregson/"><img height="30" alt="linkedin" src="./assets/linkedin.svg"></a>
+<a href="https://www.linkedin.com/in/owengregson/"><img height="26" alt="linkedin" src="./assets/linkedin.svg"></a>
 
 <br><hr><br>
 <h3 align="center" style="text-align: center">I can confidently create a production-ready application using:</h3>
