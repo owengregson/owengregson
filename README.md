@@ -6,12 +6,12 @@
 <code><img height="20" alt="webflow" src="./assets/webflow.png"></code>
 <code><img height="20" alt="javascript" src="./assets/javascript.png"></code>
 <code><img height="20" alt="typescript" src="./assets/typescript.png"></code>
-<code><img height="20" alt="react.js" src="./assets/reactjs.png"></code>
+<code><img height="20" alt="react.js" src="./assets/reactjs-2.png"></code>
 <code><img height="20" alt="python" src="./assets/python.png"></code>
 <code><img height="20" alt="node.js" src="./assets/nodejs.png"></code>
 <code><img height="20" alt="swift" src="./assets/swift.png"></code>
 <code><img height="20" alt="php" src="./assets/php.png"></code>
-<code><img height="20" alt="electron" src="./assets/electron.png"></code>
+<code><img height="20" alt="electron" src="./assets/electron-2.png"></code>
 <code><img height="20" alt="mysql" src="./assets/mysql.png"></code>
 <code><img height="20" alt="mongodb" src="./assets/mongodb.png"></code>
 
