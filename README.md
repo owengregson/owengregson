@@ -17,5 +17,5 @@
 </p><p align="center" style="text-align: center">
 I have been developing since I was nine years old, and my love for the creative process has only grown stronger over the years. I have extensive experience and commitment to user-centric design that ensures that every application I develop is intuitive, engaging, and tailored to the unique needs of its users.
 </p>
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=owengregson&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Owen's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=owengregson&layout=compact&theme=buefy&hide_border=true" /> |
-| ------------- | ------------- |
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=owengregson&show_icons=true&include_all_commits=true&theme=material-palenight&rank_icon=github&hide_border=true&bg_color=00000000" alt="Owen's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=owengregson&layout=donut&theme=material-palenight&hide_border=true&bg_color=00000000&hide_border=true" /> |
