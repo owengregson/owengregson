@@ -15,7 +15,7 @@
 <code><img height="20" alt="electron" src="./assets/electron-2.png"></code>
 <code><img height="20" alt="mysql" src="./assets/mysql.png"></code>
 <code><img height="20" alt="mongodb" src="./assets/mongodb.png"></code>
-</p>
+</p><br>
 <p align="center" style="text-align: center; text-size: 2em;">
 I have been developing since I was nine years old, and my love for the creative process has only grown stronger over the years. I have extensive experience and commitment to user-centric design that ensures that every application I develop is intuitive, engaging, and tailored to the unique needs of its users.
 </p>
