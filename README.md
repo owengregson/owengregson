@@ -3,6 +3,7 @@
 <br/>
 <p align="center"><img width="30%" img src="./assets/typed-v2.svg" alt="Full Stack Developer, Creative Designer, Passionate Learner" /></p><br><hr><br>
 <p align="center" style="text-align: center">
+<h2>I can confidently complete a project in:</h2>
 <code><img height="20" alt="webflow" src="./assets/webflow.png"></code>
 <code><img height="20" alt="javascript" src="./assets/javascript.png"></code>
 <code><img height="20" alt="typescript" src="./assets/typescript.png"></code>
