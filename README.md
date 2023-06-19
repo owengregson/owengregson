@@ -3,9 +3,9 @@
 <br/>
 <p align="center"><img width="30%" img src="./assets/typed-v2.svg" alt="Full Stack Developer, Creative Designer, Passionate Learner" /></p><br>
 <p align="center" style="text-align: center">
-<a href="https://github.com/owengregson"><img height="28" alt="github" src="./assets/github.svg"></a>
-<a href="https://www.instagram.com/owenjee_/"><img height="30" alt="instagram" src="./assets/instagram.svg"></a>
-<a href="https://www.linkedin.com/in/owengregson/"><img height="26" alt="linkedin" src="./assets/linkedin.svg"></a>
+<a href="https://github.com/owengregson"><img hspace="5" height="28" alt="github" src="./assets/github.svg"></a>
+<a href="https://www.instagram.com/owenjee_/"><img hspace="5" height="30" alt="instagram" src="./assets/instagram.svg"></a>
+<a href="https://www.linkedin.com/in/owengregson/"><img hspace="5" height="26" alt="linkedin" src="./assets/linkedin.svg"></a>
 
 <br><hr><br>
 <h3 align="center" style="text-align: center">I can confidently create a production-ready application using:</h3>
