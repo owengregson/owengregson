@@ -2,8 +2,8 @@
 
 <br />
 
-<p align="center"><img src="./assets/typed-text.svg" alt="Full Stack Developer, Creative Designer, Passionate Learner" /></p>
-
+<p align="center"><img width="80%" img src="./assets/typed-v2.svg" alt="Full Stack Developer, Creative Designer, Passionate Learner" /></p>
+<p align="center">
 **About me**
 
 - 💼 10th Grade Student in California
@@ -23,23 +23,4 @@
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=owengregson&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Owen's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=owengregson&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
-
-#### Top Repositories
-
-
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=owengregson&repo=quizlet-hacks&theme=buefy" />
-
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=owengregson&repo=owen.lol&theme=buefy" />
-
-
-<br />
-<br />
-
-<a href="https://twitter.com/lemonfluxx">
-  <img align="right" alt="Owen Gregson | Twitter" width="21px" src="https://raw.githubusercontent.com/owengregson/owengregson/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/lemonflux">
-  <img align="right" alt="Owen Gregson | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/owengregson/owengregson/master/assets/codesandbox.svg" />
-</a>
+</p>
