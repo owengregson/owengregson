@@ -1,7 +1,5 @@
 <p align="center"><a href="https://owen.lol/"><img width="60%" alt="owen.lol" src="./assets/banner-v3.png" /></a></p>
 
-<br />
-
 <p align="center"><img width="30%" img src="./assets/typed-v2.svg" alt="Full Stack Developer, Creative Designer, Passionate Learner" /></p>
 <p align="center">
 **About me**
