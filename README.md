@@ -1,8 +1,8 @@
-<p align="center"><a href="https://owen.lol/"><img width="80%" alt="Hello, I'm Owen. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://owen.lol/"><img width="80%" alt="owen.lol" src="./assets/owen.lol.png" /></a></p>
 
 <br />
 
-I'm a self-taught Full-Stack developer from Canada 🇨🇦
+<img src="./assets/typed-text.svg" alt="Full Stack Developer, Creative Designer, Passionate Learner" />
 
 **About me**
 
