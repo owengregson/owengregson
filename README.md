@@ -2,7 +2,7 @@
 
 <br/>
 <p align="center"><img width="30%" img src="./assets/typed-v2.svg" alt="Full Stack Developer, Creative Designer, Passionate Learner" /></p>
-<p align="center">
+<p align="center" style="text-align: center">
 <code><img height="20" alt="webflow" src="./assets/webflow.png"></code>
 <code><img height="20" alt="javascript" src="./assets/javascript.png"></code>
 <code><img height="20" alt="typescript" src="./assets/typescript.png"></code>
