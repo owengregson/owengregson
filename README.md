@@ -1,4 +1,4 @@
-<p align="center"><a href="https://owen.lol/"><img width="60%" alt="owen.lol" src="./assets/owenlol-banner.png" /></a></p>
+<p align="center"><a href="https://owen.lol/"><img width="60%" alt="owen.lol" src="./assets/banner-v3.png" /></a></p>
 
 <br />
 
