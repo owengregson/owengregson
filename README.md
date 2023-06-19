@@ -3,6 +3,8 @@
 <br/>
 <p align="center"><img width="30%" img src="./assets/typed-v2.svg" alt="Full Stack Developer, Creative Designer, Passionate Learner" /></p><br>
 <p align="center" style="text-align: center">
+  
+![](https://komarev.com/ghpvc/?username=owengregson&color=00D1E8&style=for-the-badge&label=PROFILE%20VIEWS)<br>
 <a href="https://github.com/owengregson"><img hspace="7" height="23" alt="github" src="./assets/github.svg"></a>
 <a href="https://www.instagram.com/owenjee_/"><img hspace="7" height="25" alt="instagram" src="./assets/instagram.svg"></a>
 <a href="https://www.linkedin.com/in/owengregson/"><img hspace="7" height="21" alt="linkedin" src="./assets/linkedin.svg"></a>
