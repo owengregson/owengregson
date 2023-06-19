@@ -14,9 +14,11 @@
 <code><img height="20" alt="electron" src="./assets/electron-2.png"></code>
 <code><img height="20" alt="mysql" src="./assets/mysql.png"></code>
 <code><img height="20" alt="mongodb" src="./assets/mongodb.png"></code>
-</p><p align="center" style="text-align: center">
+</p>
+<p align="center" style="text-align: center">
 I have been developing since I was nine years old, and my love for the creative process has only grown stronger over the years. I have extensive experience and commitment to user-centric design that ensures that every application I develop is intuitive, engaging, and tailored to the unique needs of its users.
 </p>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=owengregson&show_icons=true&include_all_commits=true&theme=material-palenight&rank_icon=github&hide_border=true&bg_color=00000000" alt="Owen's github stats" /></a>
-<br><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=owengregson&hide_border=true&layout=donut&theme=material-palenight&bg_color=00000000" />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=owengregson&show_icons=true&include_all_commits=true&theme=material-palenight&rank_icon=github&hide_border=true&bg_color=00000000" alt="Owen's github stats" /></a>
+<br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=owengregson&hide_border=true&layout=donut&theme=material-palenight&bg_color=00000000"/>
+</p>
