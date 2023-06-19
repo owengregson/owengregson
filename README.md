@@ -13,7 +13,6 @@
 <code><img height="20" alt="electron" src="./assets/electron.png"></code>
 <code><img height="20" alt="mysql" src="./assets/mysql.png"></code>
 <code><img height="20" alt="mongodb" src="./assets/mongodb.png"></code>
-**About me**
 
 - 💼 10th Grade Student in California
 
