@@ -7,7 +7,7 @@
 <a href="https://www.instagram.com/owenjee_/"><img hspace="7" height="25" alt="instagram" src="./assets/instagram.svg"></a>
 <a href="https://www.linkedin.com/in/owengregson/"><img hspace="7" height="21" alt="linkedin" src="./assets/linkedin.svg"></a>
 
-<br><hr><br>
+<hr><br>
 <h3 align="center" style="text-align: center">I can confidently create a production-ready application using:</h3>
 <p align="center" style="text-align: center">
 <code><img height="20" alt="webflow" src="./assets/webflow.png"></code>
